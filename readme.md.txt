@@ -42,9 +42,9 @@ Each vulnerability folder contains screenshots and detailed explanations of test
 ### Usage
 
 1. Clone this repository:  
-git clone https://github.com/<your-username>/<your-repo-name>.git
 
-text
+ https://github.com/Jagadeesh825/owasp-top10-dvwa-practical.git
+
 2. Review each vulnerability folder for detailed practical steps and evidence.  
 3. Replicate tests in your own isolated DVWA environment for practice.
 
@@ -82,8 +82,8 @@ text
 
 Jagadeesh Kumar  
 NOC Engineer transitioning to Cybersecurity  
-LinkedIn: [Your LinkedIn URL]  
-YouTube: [Your YouTube Channel]
+LinkedIn: https://www.linkedin.com/in/jagadeesh-kumar-s-98b232150 
+
 
 ---
 
