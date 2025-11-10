@@ -93,4 +93,5 @@ This project is for educational purposes only. Use responsibly and ethically.
 
 ---
 
-**Screenshots and evidence files are provided in each vulnerability directory.**
+**Screenshots and evidence files are provided above.
+
